@@ -3,3 +3,7 @@ dump.rdb
 
 # 忽略 Python 虛擬環境
 venv/
+
+# node packages
+
+live-vote-app/node_modules/
