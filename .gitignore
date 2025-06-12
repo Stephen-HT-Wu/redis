@@ -1,0 +1,5 @@
+# Redis snapshot and append-only log
+dump.rdb
+
+# 忽略 Python 虛擬環境
+venv/
